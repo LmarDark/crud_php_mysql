@@ -3,11 +3,16 @@
 - Projeto simples de CRUD em PHP e mysql utilizando OOP(Orientado a Objeto) e mysqli.
 </br>
 ⚙️ Como rodar?
+</br>
 - Instale o XAMPP/WAMPP;
+</br>
 - Crie uma tabela com o nome user;
+</br>
 - Insira as colunas(id, username, password e perm);
+    </br>
     - Insira como consta acima! id com A.I
 - Rode o projeto.
+<p></p>
 <p></p>
 - CREATE
 
