@@ -19,8 +19,7 @@
 
 - Rode o projeto.
 
-</br>
-</br>
+<hr>
 
 - CREATE
 
