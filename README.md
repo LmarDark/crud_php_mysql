@@ -6,11 +6,15 @@
 </br>
 </br>
 - Instale o XAMPP/WAMPP;
+
 </br>
 </br>
+
 - Crie uma tabela com o nome user;
+
 </br>
 </br>
+
 - Insira as colunas(id, username, password e perm);
     </br>
     </br>
