@@ -14,7 +14,7 @@
 - Insira as colunas(**id**, **username**, **password** e **perm**);
 
     
-    - Insira como consta acima! id com A.I(Auto-Increment)
+    - **Insira como consta acima! id com A.I(Auto-Increment);**
 
 
 - Rode o projeto.
