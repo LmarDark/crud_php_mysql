@@ -8,8 +8,7 @@
 - Insira as colunas(id, username, password e perm);
     - Insira como consta acima! id com A.I
 - Rode o projeto.
-</br>
-</br>
+<p></p>
 - CREATE
 
 ![image](https://github.com/LmarDark/crud_php_mysql/assets/105503258/c66ccb26-79a0-40cf-83e7-fee35c2a884e)
