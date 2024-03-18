@@ -10,7 +10,7 @@
 
 
 - EDIT
-- </br>
+</br>
 ![image](https://github.com/LmarDark/crud_php_mysql/assets/105503258/a582443e-3fdb-4eee-af20-fe22bc953733)
 
 
