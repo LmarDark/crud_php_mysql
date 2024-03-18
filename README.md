@@ -7,20 +7,15 @@
 </br>
 - Instale o XAMPP/WAMPP;
 
-</br>
-</br>
 
 - Crie uma tabela com o nome user;
 
-</br>
 
 - Insira as colunas(id, username, password e perm);
 
-    </br>
     
     - Insira como consta acima! id com A.I
 
-</br>
 
 - Rode o projeto.
 
