@@ -5,7 +5,8 @@
 ⚙️ Como rodar?
 
 - CREATE
-![image](https://github.com/LmarDark/crud_php_mysql/assets/105503258/569e59d6-4f51-4472-8786-8c7581103c61)
+![image](https://github.com/LmarDark/crud_php_mysql/assets/105503258/3ebf3ecc-ab27-41f5-877d-a7afd89b477c)
+
 
 
 - EDIT
