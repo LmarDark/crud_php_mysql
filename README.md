@@ -15,5 +15,5 @@
 
 
 - DELETE
-- </br>
+</br>
 - ![image](https://github.com/LmarDark/crud_php_mysql/assets/105503258/66d16390-050f-45d8-b830-1cc5ac5f0760)
