@@ -8,13 +8,13 @@
 - Instale o XAMPP/WAMPP;
 
 
-- Crie uma tabela com o nome user;
+- Crie uma tabela com o nome **user**;
 
 
-- Insira as colunas(id, username, password e perm);
+- Insira as colunas(**id**, **username**, **password** e **perm**);
 
     
-    - Insira como consta acima! id com A.I
+    - Insira como consta acima! id com A.I(Auto-Increment)
 
 
 - Rode o projeto.
