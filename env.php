@@ -1,9 +1,9 @@
 <?php
 class Env {
-    protected $servername = "127.0.0.1:3306";
-    protected $user = "root";
-    protected $password = "";
-    protected $database = "test";
+    protected $servername = "X";
+    protected $user = "X";
+    protected $password = "X";
+    protected $database = "X";
 
     
     public function read_user(){
