@@ -17,7 +17,10 @@
 - Insira as colunas(**id**, **username**, **password** e **perm**);
 
     
-    - **Insira como consta acima! id com A.I(Auto-Increment);**
+    - **Insira também _id_ com A.I(Auto-Increment);**
+    - **_username_ como VARCHAR**;
+    - **_password_ como VARCHAR**;
+    - **_perm_ como int**.
 
 
 - Rode o projeto.
